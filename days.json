@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Mon",
+    "tasksNum": 5
+  },
+  {
+    "name": "Tue",
+    "tasksNum": 3
+  },
+  {
+    "name": "Wed",
+    "tasksNum": 7
+  },
+  {
+    "name": "Thu",
+    "tasksNum": 2
+  },
+  {
+    "name": "Fri",
+    "tasksNum": 6
+  },
+  {
+    "name": "Sat",
+    "tasksNum": 4
+  },
+  {
+    "name": "Sun",
+    "tasksNum": 1
+  }
+]
